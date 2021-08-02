@@ -11,3 +11,8 @@ https://gist.github.com/JennDudley/2493288
 ## Gitignore templates
 
 https://github.com/github/gitignore
+
+
+## Migrations
+
+https://guides.rubyonrails.org/v3.2/migrations.html
