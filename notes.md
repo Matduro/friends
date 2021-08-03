@@ -16,3 +16,21 @@ https://github.com/github/gitignore
 ## Migrations
 
 https://guides.rubyonrails.org/v3.2/migrations.html
+
+## Prettier Ruby plugin
+
+https://github.com/prettier/plugin-ruby
+
+## Extensions for RoR
+
+https://betterprogramming.pub/vs-code-extensions-for-ruby-on-rails-developers-917474e03e04
+
+https://www.freecodecamp.org/news/visual-studio-plugins-for-ruby-on-rails-developers/
+
+## Great for teamwork
+
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+## Jumbotron in Bootstrap 5 
+
+https://stackoverflow.com/questions/63141494/how-to-create-jumbotron-in-bootstrap-5
