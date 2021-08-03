@@ -34,3 +34,11 @@ https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 ## Jumbotron in Bootstrap 5 
 
 https://stackoverflow.com/questions/63141494/how-to-create-jumbotron-in-bootstrap-5
+
+## Gemfiles repository
+
+https://rubygems.org/
+
+## Devise
+
+https://github.com/heartcombo/devise
