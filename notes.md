@@ -47,3 +47,19 @@ https://github.com/heartcombo/devise
 
 Create a production group in the gemfile
 Move sqlite3 in the development group
+
+## Push to Heroku
+
+git push heroku main
+
+## Common error while uploading to Heroku
+
+https://stackoverflow.com/questions/4574176/heroku-push-rejected-failed-to-install-gems-via-bundler
+
+## Once you have successfully pushed to Heroku
+
+terminal cmd: heroku run rails db:migrate
+
+## Website: https://friendswithruby.herokuapp.com/
+
+## Buy a domain: https://www.namecheap.com/
