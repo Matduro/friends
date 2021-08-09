@@ -42,3 +42,8 @@ https://rubygems.org/
 ## Devise
 
 https://github.com/heartcombo/devise
+
+### Remember to replace sqlite3 with pg
+
+Create a production group in the gemfile
+Move sqlite3 in the development group
